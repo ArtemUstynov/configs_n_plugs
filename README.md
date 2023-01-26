@@ -1,5 +1,7 @@
 \# tmux_conf
+
 \# Send prefix
+
 set-option -g prefix M-c
 
 unbind-key M-c
